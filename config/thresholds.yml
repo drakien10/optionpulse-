@@ -1,0 +1,10 @@
+# Tum esik degerleri tek yerde
+vix:
+  normal_ust: 20.0
+  panik: 28.0
+vix9d_normalize: 18.0
+gex:
+  flip_yakinlik_pct: 1.5
+risk_free_rate: 0.0375
+report:
+  timezone: "Europe/Istanbul"
