@@ -1,0 +1,124 @@
+{
+  "tarih": "2026-08-10",
+  "uretim_zamani": "2026-08-10T05:56:23.083996Z",
+  "optionpulse": {
+    "spot": 773.26,
+    "net_gex": 7262915206.253287,
+    "net_gex_str": "+7262.92M$ /%1",
+    "flip": 763.6,
+    "max_pain": 764.0,
+    "call_wall": 775.0,
+    "put_wall": 520.0,
+    "kontrat_sayisi": 3964,
+    "vix9d": 11.96,
+    "vix": 14.9,
+    "vix3m": 18.72,
+    "vvix": 90.42,
+    "ts_label": "contango",
+    "rejim": {
+      "label": "Pozitif Gamma / Sonumleyici",
+      "confidence": 90,
+      "bilesenler": {
+        "veri": 40,
+        "katman_uyumu": 40,
+        "event": 20,
+        "ts_label": "contango",
+        "ts_skor": 25
+      },
+      "notlar": [
+        "Dealer hedge'i harekete karsi calisir — bant ici sonumlenme beklenir.",
+        "Spot, gamma flip seviyesine %1.2 mesafede — rejim her an donebilir.",
+        "Normal vade yapisi — yakin vadede stres fiyatlanmiyor."
+      ]
+    }
+  },
+  "makro": {
+    "10y": {
+      "deger": 4.69,
+      "tarih": "2026-08-06",
+      "onceki": 4.63,
+      "kaynak": "FRED DGS10"
+    },
+    "2y": {
+      "deger": 4.25,
+      "tarih": "2026-08-06",
+      "onceki": 4.18,
+      "kaynak": "FRED DGS2"
+    },
+    "30y": {
+      "deger": 5.22,
+      "tarih": "2026-08-06",
+      "onceki": 5.17,
+      "kaynak": "FRED DGS30"
+    },
+    "10y_reel": {
+      "deger": 2.43,
+      "tarih": "2026-08-06",
+      "onceki": 2.41,
+      "kaynak": "FRED DFII10"
+    },
+    "10y2y_spread": {
+      "deger": 0.46,
+      "tarih": "2026-08-07",
+      "onceki": 0.44,
+      "kaynak": "FRED T10Y2Y"
+    },
+    "10y3m_spread": {
+      "deger": 0.78,
+      "tarih": "2026-08-07",
+      "onceki": 0.79,
+      "kaynak": "FRED T10Y3M"
+    },
+    "fed_funds_eff": {
+      "deger": 3.63,
+      "tarih": "2026-08-06",
+      "onceki": 3.63,
+      "kaynak": "FRED DFF"
+    },
+    "sofr": {
+      "deger": 3.65,
+      "tarih": "2026-08-06",
+      "onceki": 3.64,
+      "kaynak": "FRED SOFR"
+    },
+    "fed_bilanco": {
+      "deger": 6748567.0,
+      "tarih": "2026-08-05",
+      "onceki": 6738190.0,
+      "kaynak": "FRED WALCL"
+    },
+    "hy_spread": {
+      "deger": 2.71,
+      "tarih": "2026-08-06",
+      "onceki": 2.75,
+      "kaynak": "FRED BAMLH0A0HYM2"
+    },
+    "nfci": {
+      "deger": -0.529,
+      "tarih": "2026-07-31",
+      "onceki": -0.53,
+      "kaynak": "FRED NFCI"
+    },
+    "sahm": {
+      "deger": -0.03,
+      "tarih": "2026-07-01",
+      "onceki": 0.07,
+      "kaynak": "FRED SAHMREALTIME"
+    },
+    "issizlik": {
+      "deger": 4.1,
+      "tarih": "2026-07-01",
+      "onceki": 4.2,
+      "kaynak": "FRED UNRATE"
+    },
+    "mortgage30": {
+      "deger": 6.69,
+      "tarih": "2026-08-06",
+      "onceki": 6.66,
+      "kaynak": "FRED MORTGAGE30US"
+    }
+  },
+  "sentiment": {
+    "cnn": null
+  }
+}
