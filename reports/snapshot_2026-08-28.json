@@ -1,0 +1,96 @@
+{
+  "tarih": "2026-08-28",
+  "uretim_zamani": "2026-08-28T16:51:31.918538Z",
+  "optionpulse": {
+    "spot": 770.23,
+    "net_gex": -2740892595.321946,
+    "net_gex_str": "-2740.89M$ /%1",
+    "flip": 772.9,
+    "max_pain": 770.0,
+    "call_wall": 800.0,
+    "put_wall": 535.0,
+    "kontrat_sayisi": 3148,
+    "vix9d": 11.89,
+    "vix": 14.61,
+    "vix3m": 17.62,
+    "vvix": 86.9,
+    "ts_label": "contango",
+    "rejim": {
+      "label": "Negatif Gamma / Refleksif",
+      "confidence": 70,
+      "bilesenler": {
+        "veri": 40,
+        "katman_uyumu": 20,
+        "event": 20,
+        "ts_label": "contango",
+        "ts_skor": 25
+      },
+      "notlar": [
+        "Dealer'lar piyasayla ayni yonde hedge eder — hareketler sertlesir, amortisor yok.",
+        "Spot, gamma flip seviyesine %0.3 mesafede — rejim her an donebilir.",
+        "Normal vade yapisi — yakin vadede stres fiyatlanmiyor."
+      ]
+    }
+  },
+  "makro": {
+    "10y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "2y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "30y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y_reel": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y2y_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y3m_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_funds_eff": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sofr": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_bilanco": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "hy_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "nfci": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sahm": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "issizlik": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "mortgage30": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    }
+  },
+  "sentiment": {
+    "cnn": null
+  }
+}
