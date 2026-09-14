@@ -1,0 +1,95 @@
+{
+  "tarih": "2026-09-14",
+  "uretim_zamani": "2026-09-14T10:04:21.127446Z",
+  "optionpulse": {
+    "spot": 757.96,
+    "net_gex": -16834395371.415936,
+    "net_gex_str": "-16834.40M$ /%1",
+    "flip": 770.5,
+    "max_pain": 764.0,
+    "call_wall": 800.0,
+    "put_wall": 525.0,
+    "kontrat_sayisi": 3653,
+    "vix9d": 14.47,
+    "vix": 18.13,
+    "vix3m": 18.6,
+    "vvix": 91.28,
+    "ts_label": "contango",
+    "rejim": {
+      "label": "Negatif Gamma / Refleksif",
+      "confidence": 75,
+      "bilesenler": {
+        "veri": 40,
+        "katman_uyumu": 15,
+        "event": 20,
+        "ts_label": "contango",
+        "ts_skor": 25
+      },
+      "notlar": [
+        "Dealer'lar piyasayla ayni yonde hedge eder — hareketler sertlesir, amortisor yok.",
+        "Normal vade yapisi — yakin vadede stres fiyatlanmiyor."
+      ]
+    }
+  },
+  "makro": {
+    "10y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "2y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "30y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y_reel": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y2y_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y3m_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_funds_eff": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sofr": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_bilanco": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "hy_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "nfci": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sahm": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "issizlik": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "mortgage30": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    }
+  },
+  "sentiment": {
+    "cnn": null
+  }
+}
