@@ -1,0 +1,96 @@
+{
+  "tarih": "2026-11-04",
+  "uretim_zamani": "2026-11-04T12:25:24.119307Z",
+  "optionpulse": {
+    "spot": 762.64,
+    "net_gex": -4852522824.655005,
+    "net_gex_str": "-4852.52M$ /%1",
+    "flip": 769.6,
+    "max_pain": 755.0,
+    "call_wall": 800.0,
+    "put_wall": 500.0,
+    "kontrat_sayisi": 3543,
+    "vix9d": 21.96,
+    "vix": 18.46,
+    "vix3m": 21.27,
+    "vvix": 107.4,
+    "ts_label": "tam_backwardation",
+    "rejim": {
+      "label": "Negatif Gamma / Refleksif",
+      "confidence": 90,
+      "bilesenler": {
+        "veri": 40,
+        "katman_uyumu": 40,
+        "event": 20,
+        "ts_label": "tam_backwardation",
+        "ts_skor": 0
+      },
+      "notlar": [
+        "Dealer'lar piyasayla ayni yonde hedge eder — hareketler sertlesir, amortisor yok.",
+        "Spot, gamma flip seviyesine %0.9 mesafede — rejim her an donebilir.",
+        "VIX9D hem VIX'i hem VIX3M'i gecti — akut kisa vade stresi."
+      ]
+    }
+  },
+  "makro": {
+    "10y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "2y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "30y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y_reel": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y2y_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y3m_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_funds_eff": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sofr": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_bilanco": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "hy_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "nfci": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sahm": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "issizlik": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "mortgage30": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    }
+  },
+  "sentiment": {
+    "cnn": null
+  }
+}
