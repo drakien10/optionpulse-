@@ -1,0 +1,95 @@
+{
+  "tarih": "2026-11-09",
+  "uretim_zamani": "2026-11-09T13:14:43.573437Z",
+  "optionpulse": {
+    "spot": 739.76,
+    "net_gex": -11377665768.598434,
+    "net_gex_str": "-11377.67M$ /%1",
+    "flip": 761.7,
+    "max_pain": 740.0,
+    "call_wall": 800.0,
+    "put_wall": 500.0,
+    "kontrat_sayisi": 3612,
+    "vix9d": 27.18,
+    "vix": 22.89,
+    "vix3m": 24.6,
+    "vvix": 121.94,
+    "ts_label": "tam_backwardation",
+    "rejim": {
+      "label": "Negatif Gamma / Refleksif",
+      "confidence": 100,
+      "bilesenler": {
+        "veri": 40,
+        "katman_uyumu": 40,
+        "event": 20,
+        "ts_label": "tam_backwardation",
+        "ts_skor": 0
+      },
+      "notlar": [
+        "Dealer'lar piyasayla ayni yonde hedge eder — hareketler sertlesir, amortisor yok.",
+        "VIX9D hem VIX'i hem VIX3M'i gecti — akut kisa vade stresi."
+      ]
+    }
+  },
+  "makro": {
+    "10y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "2y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "30y": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y_reel": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y2y_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "10y3m_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_funds_eff": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sofr": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "fed_bilanco": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "hy_spread": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "nfci": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "sahm": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "issizlik": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    },
+    "mortgage30": {
+      "deger": null,
+      "durum": "dogrulanamadi"
+    }
+  },
+  "sentiment": {
+    "cnn": null
+  }
+}
